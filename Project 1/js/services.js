@@ -1,3 +1,3 @@
 angular
-  .module('helloClock.services', [])
+  .module('myApp.services', [])
   .value('version', '0.0.1');

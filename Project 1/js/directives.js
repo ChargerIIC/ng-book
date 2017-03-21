@@ -1,1 +1,1 @@
-angular.module('helloClock.directives', []);
+angular.module('myApp.directives', []);

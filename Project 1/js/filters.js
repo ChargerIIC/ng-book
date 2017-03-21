@@ -1,1 +1,1 @@
-angular.module('helloClock.filters', []);
+angular.module('myApp.filters', []);
